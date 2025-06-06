@@ -1,0 +1,1 @@
+# proprietary_vendor_samsung_gtactive3cs
